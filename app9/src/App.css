@@ -1,0 +1,22 @@
+#output{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 50px;
+
+}
+#output td,th{
+    border:  1px solid black;
+}
+input{
+    margin: 10px auto;
+    border: none;
+    border-bottom: 2px solid rebeccapurple;
+}
+
+#main{
+    margin: 10px auto;
+    width: fit-content;
+}
+table{
+    border: 1px solid black;
+}
