@@ -1,0 +1,13 @@
+
+.Nav{
+    border:5px solid  black;
+    background-image: url(./2W5A4281.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 500px;
+    margin: 20px auto;
+    border-radius: 5%;
+
+}
